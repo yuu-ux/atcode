@@ -1,3 +1,6 @@
 a.out
 **/tests
 contest.acc.json
+**/uv.lock
+**/.python-version
+**/pyproject.toml
