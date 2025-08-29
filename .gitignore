@@ -4,3 +4,5 @@ contest.acc.json
 **/uv.lock
 **/.python-version
 **/pyproject.toml
+**/README.md
+**/main.py
